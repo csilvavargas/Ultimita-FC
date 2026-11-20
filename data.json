@@ -1,0 +1,991 @@
+{
+ "liga": {
+  "nombre": "Liga Chicureo Norte, Futbolito Senior 2026",
+  "pv": 2
+ },
+ "jug": [
+  {
+   "id": "diego",
+   "n": "Diego",
+   "pos": "POR"
+  },
+  {
+   "id": "cazuela",
+   "n": "Cazuela",
+   "pos": "DFC"
+  },
+  {
+   "id": "omar",
+   "n": "Omar",
+   "pos": "DFC"
+  },
+  {
+   "id": "steffan",
+   "n": "Steffan",
+   "pos": "VC"
+  },
+  {
+   "id": "chama",
+   "n": "Chama",
+   "pos": "EI"
+  },
+  {
+   "id": "chae",
+   "n": "Chae",
+   "pos": "ED"
+  },
+  {
+   "id": "daniel",
+   "n": "Daniel",
+   "pos": "MP"
+  },
+  {
+   "id": "rodrigo",
+   "n": "Rodrigo",
+   "pos": "DEL"
+  },
+  {
+   "id": "cochi",
+   "n": "Cochi"
+  },
+  {
+   "id": "lucho",
+   "n": "Lucho"
+  },
+  {
+   "id": "piojo",
+   "n": "Piojo"
+  },
+  {
+   "id": "chapa",
+   "n": "Chapa"
+  },
+  {
+   "id": "miguel",
+   "n": "Miguel"
+  },
+  {
+   "id": "nacho",
+   "n": "Nacho"
+  },
+  {
+   "id": "seba",
+   "n": "Seba"
+  },
+  {
+   "id": "dayle",
+   "n": "Dayle"
+  },
+  {
+   "id": "mafla",
+   "n": "Mafla"
+  },
+  {
+   "id": "felipe",
+   "n": "Felipe"
+  },
+  {
+   "id": "negro",
+   "n": "Negro"
+  },
+  {
+   "id": "matias",
+   "n": "Matías"
+  }
+ ],
+ "fin": {
+  "rival": "Futbolistas Agremiados",
+  "esq": "1-3-3-1",
+  "fecha": "2026-11-21",
+  "hora": "12:00 hrs",
+  "lugar": "AT Chicureo Norte, Cancha 4",
+  "asig": {
+   "POR": "felipe",
+   "DFC1": "chapa",
+   "DFC2": "omar",
+   "VC": "steffan",
+   "EI": "piojo",
+   "ED": "miguel",
+   "MP": "daniel",
+   "DEL": "seba"
+  },
+  "suplentes": [
+   "negro",
+   "matias"
+  ],
+  "instr": {
+   "principios": [
+    "Hay momentos: antes de lanzar largo, mira si hay un pase seguro. Primero asegura la pelota, después avanza.",
+    "Si perdemos la pelota: 5 segundos de contrapresión. Si no se recupera, todos replegamos por detrás de la línea del balón.",
+    "Ellos juegan 1-3-3-1: tres defensas, tres volantes y un delantero. Atrás somos 2 contra su único delantero (uno de los dos centrales queda libre); arriba somos 2 contra 3, así que presionamos escalonado."
+   ],
+   "grupos": {
+    "POR": {
+     "t": "Portero",
+     "p": [
+      [
+       "Con balón",
+       "Salida corta al central libre, el que su delantero no está presionando. Pelotazo solo si los dos centrales están tapados."
+      ],
+      [
+       "Con balón",
+       "Al atajar o recuperar, levanta la cabeza: primer pase al volante más libre, no al pelotazo por inercia."
+      ],
+      [
+       "Sin balón",
+       "Parado adelantado, listo para cortar los balones a la espalda de los centrales."
+      ],
+      [
+       "Siempre",
+       "Guía a la defensa en voz alta: quién marca, quién cubre, quién sube."
+      ]
+     ]
+    },
+    "DFC": {
+     "t": "Defensas centrales",
+     "p": [
+      [
+       "Con balón",
+       "Ábranse a los lados del arco para dar ángulo al portero: son 2 contra su único delantero y uno siempre queda libre."
+      ],
+      [
+       "Con balón",
+       "Si hay espacio, conduce hasta que un rival salga a presionar; ahí suelta al volante, que debe estar en triángulo contigo."
+      ],
+      [
+       "Sin balón",
+       "Uno marca al delantero y el otro cubre por detrás. Si tu compañero sale a presionar, cierra hacia el centro."
+      ],
+      [
+       "Tras pérdida",
+       "Mantén la línea junta y no te vayas detrás del balón. La contrapresión la hacen los de adelante."
+      ]
+     ]
+    },
+    "VC": {
+     "t": "Volante central",
+     "p": [
+      [
+       "Sin balón",
+       "Borra la línea de pase al volante central rival: tu posición cierra ese pase y obliga a jugar por fuera."
+      ],
+      [
+       "Con balón",
+       "Ofrécete siempre detrás o frente a la pelota, en triángulo con el defensa que la tiene. Recibe de frente y juega a uno o dos toques."
+      ],
+      [
+       "Al recuperar",
+       "Asegura la pelota con un pase corto y vuelve a ofrecerte. El pase largo se decide después de tenerla."
+      ],
+      [
+       "Segundos balones",
+       "Quédate cerca de los defensas para recoger rebotes y despejes."
+      ]
+     ]
+    },
+    "VB": {
+     "t": "Volantes de banda",
+     "p": [
+      [
+       "Con balón",
+       "Abre la cancha en tu banda, siempre con una línea de pase al defensa de tu lado (triángulo). Si el balón va al otro lado, entra al medio para dar una opción más."
+      ],
+      [
+       "Con balón",
+       "Cuando tu lado está libre y el balón está en el otro, ábrete para recibir el cambio de orilla."
+      ],
+      [
+       "Sin balón",
+       "Cierra la salida lateral del rival de tu banda. Si el balón cruza al otro lado, cierra hacia adentro."
+      ],
+      [
+       "Tras pérdida",
+       "Contrapresión inmediata. Si no se recupera, vuelve por detrás de la línea del balón."
+      ]
+     ]
+    },
+    "MP": {
+     "t": "Mediapunta",
+     "p": [
+      [
+       "Con balón",
+       "Búscate entre líneas, entre sus volantes y sus defensas. Recibe, protege y descarga al volante que viene de frente: así mantenemos la pelota."
+      ],
+      [
+       "Con balón",
+       "Cuando el delantero fija a los centrales, ataca el espacio que deja. Si el delantero baja, ocupa su lugar."
+      ],
+      [
+       "Sin balón",
+       "Primer presionador junto al delantero, de forma escalonada: ellos tienen 3 atrás, no persigas a los tres."
+      ],
+      [
+       "Tras pérdida",
+       "Contrapresión inmediata sobre quien recibe, durante 5 segundos."
+      ]
+     ]
+    },
+    "DEL": {
+     "t": "Delantero",
+     "p": [
+      [
+       "Sin balón",
+       "Presiona al central que tiene el balón y oriéntalo hacia el lado donde el volante lo espera. No persigas a los tres centrales."
+      ],
+      [
+       "Con balón",
+       "Fija a los centrales y juega de pared con el mediapunta. Si el mediapunta baja, ataca la espalda de la defensa."
+      ],
+      [
+       "Al recuperar",
+       "Ofrécete rápido como salida. Si no hay pase profundo claro, protege la pelota y espera apoyo."
+      ],
+      [
+       "Tras pérdida",
+       "Contrapresión inmediata, 5 segundos."
+      ]
+     ]
+    }
+   }
+  }
+ },
+ "tabla": [
+  {
+   "eq": "La Ultimita",
+   "g": 8,
+   "e": 0,
+   "p": 0,
+   "gf": 26,
+   "gc": 5
+  },
+  {
+   "eq": "Futbolistas Agremiados",
+   "g": 5,
+   "e": 2,
+   "p": 1,
+   "gf": 26,
+   "gc": 11
+  },
+  {
+   "eq": "Simepagan Boys",
+   "g": 5,
+   "e": 1,
+   "p": 2,
+   "gf": 28,
+   "gc": 14
+  },
+  {
+   "eq": "Lyoner's",
+   "g": 5,
+   "e": 0,
+   "p": 3,
+   "gf": 26,
+   "gc": 19
+  },
+  {
+   "eq": "Bahia",
+   "g": 4,
+   "e": 1,
+   "p": 3,
+   "gf": 15,
+   "gc": 16
+  },
+  {
+   "eq": "Diabólica FC",
+   "g": 2,
+   "e": 1,
+   "p": 5,
+   "gf": 9,
+   "gc": 22
+  },
+  {
+   "eq": "Trascender FC",
+   "g": 2,
+   "e": 1,
+   "p": 5,
+   "gf": 11,
+   "gc": 26
+  },
+  {
+   "eq": "Miami Dogs",
+   "g": 2,
+   "e": 0,
+   "p": 6,
+   "gf": 12,
+   "gc": 25
+  },
+  {
+   "eq": "Definila FC",
+   "g": 2,
+   "e": 0,
+   "p": 6,
+   "gf": 12,
+   "gc": 18
+  },
+  {
+   "eq": "Zaragoza FC",
+   "g": 1,
+   "e": 2,
+   "p": 5,
+   "gf": 8,
+   "gc": 17
+  }
+ ],
+ "fix": [],
+ "asig": {
+  "POR": "felipe",
+  "DFC1": "chapa",
+  "DFC2": "omar",
+  "VC": "steffan",
+  "EI": "piojo",
+  "ED": "miguel",
+  "MP": "daniel",
+  "DEL": "seba"
+ },
+ "rv": null,
+ "pos": {
+  "of": null,
+  "df": null
+ },
+ "asist": [],
+ "jugadas": [
+  {
+   "id": "s0",
+   "c": "def",
+   "t": "Estructura sin balón 1-3-1-2-1",
+   "d": "El volante central baja entre los dos centrales, el mediapunta queda de pivote y los externos suben junto al delantero para presionar alto.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.27,
+       0.77
+      ],
+      [
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.77
+      ],
+      [
+       0.2,
+       0.4
+      ],
+      [
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": null,
+     "n": ""
+    }
+   ]
+  },
+  {
+   "id": "s1",
+   "c": "def",
+   "t": "Repliegue de 1-2-3-1-1 a 1-3-1-2-1",
+   "d": "Al perder el balón, el equipo pasa de la estructura con balón a la defensiva. Las flechas muestran hacia dónde se mueve cada uno.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.33,
+       0.78
+      ],
+      [
+       0.67,
+       0.78
+      ],
+      [
+       0.5,
+       0.57
+      ],
+      [
+       0.1,
+       0.57
+      ],
+      [
+       0.9,
+       0.57
+      ],
+      [
+       0.5,
+       0.36
+      ],
+      [
+       0.5,
+       0.17
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": null,
+     "n": "Con balón: 1-2-3-1-1."
+    },
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.27,
+       0.77
+      ],
+      [
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.77
+      ],
+      [
+       0.2,
+       0.4
+      ],
+      [
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [
+      [
+       0.33,
+       0.78,
+       0.27,
+       0.77
+      ],
+      [
+       0.67,
+       0.78,
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.57,
+       0.5,
+       0.77
+      ],
+      [
+       0.1,
+       0.57,
+       0.2,
+       0.4
+      ],
+      [
+       0.9,
+       0.57,
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.36,
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.17,
+       0.5,
+       0.2
+      ]
+     ],
+     "ball": null,
+     "n": "Se pierde el balón: todos vuelven a la estructura 1-3-1-2-1."
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "c": "of",
+   "t": "Estructura con balón 1-2-3-1-1",
+   "d": "Amplitud con los dos externos abiertos, mediapunta entre líneas y delantero como referencia arriba.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.33,
+       0.78
+      ],
+      [
+       0.67,
+       0.78
+      ],
+      [
+       0.5,
+       0.57
+      ],
+      [
+       0.1,
+       0.57
+      ],
+      [
+       0.9,
+       0.57
+      ],
+      [
+       0.5,
+       0.36
+      ],
+      [
+       0.5,
+       0.17
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": null,
+     "n": ""
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "c": "of",
+   "t": "Recuperación de 1-3-1-2-1 a 1-2-3-1-1",
+   "d": "Al recuperar, el equipo pasa de la defensiva al ataque. Las flechas muestran el movimiento de cada uno.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.27,
+       0.77
+      ],
+      [
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.77
+      ],
+      [
+       0.2,
+       0.4
+      ],
+      [
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": null,
+     "n": "Sin balón: 1-3-1-2-1."
+    },
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.33,
+       0.78
+      ],
+      [
+       0.67,
+       0.78
+      ],
+      [
+       0.5,
+       0.57
+      ],
+      [
+       0.1,
+       0.57
+      ],
+      [
+       0.9,
+       0.57
+      ],
+      [
+       0.5,
+       0.36
+      ],
+      [
+       0.5,
+       0.17
+      ]
+     ],
+     "B": [],
+     "mv": [
+      [
+       0.27,
+       0.77,
+       0.33,
+       0.78
+      ],
+      [
+       0.73,
+       0.77,
+       0.67,
+       0.78
+      ],
+      [
+       0.5,
+       0.77,
+       0.5,
+       0.57
+      ],
+      [
+       0.2,
+       0.4,
+       0.1,
+       0.57
+      ],
+      [
+       0.8,
+       0.4,
+       0.9,
+       0.57
+      ],
+      [
+       0.5,
+       0.58,
+       0.5,
+       0.36
+      ],
+      [
+       0.5,
+       0.2,
+       0.5,
+       0.17
+      ]
+     ],
+     "ball": null,
+     "n": "Se recupera el balón: el equipo pasa a 1-2-3-1-1."
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "c": "bas",
+   "t": "Basculación con balón rival por la derecha",
+   "d": "El bloque se desplaza hacia el lado del balón y se mantiene compacto.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.27,
+       0.77
+      ],
+      [
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.77
+      ],
+      [
+       0.2,
+       0.4
+      ],
+      [
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": [
+      0.86,
+      0.38
+     ],
+     "n": "El rival tiene el balón por la derecha."
+    },
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.43600000000000005,
+       0.77
+      ],
+      [
+       0.8039999999999999,
+       0.77
+      ],
+      [
+       0.62,
+       0.77
+      ],
+      [
+       0.38,
+       0.4
+      ],
+      [
+       0.8600000000000001,
+       0.4
+      ],
+      [
+       0.62,
+       0.58
+      ],
+      [
+       0.62,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [
+      [
+       0.27,
+       0.77,
+       0.43600000000000005,
+       0.77
+      ],
+      [
+       0.73,
+       0.77,
+       0.8039999999999999,
+       0.77
+      ],
+      [
+       0.5,
+       0.77,
+       0.62,
+       0.77
+      ],
+      [
+       0.2,
+       0.4,
+       0.38,
+       0.4
+      ],
+      [
+       0.8,
+       0.4,
+       0.8600000000000001,
+       0.4
+      ],
+      [
+       0.5,
+       0.58,
+       0.62,
+       0.58
+      ],
+      [
+       0.5,
+       0.2,
+       0.62,
+       0.2
+      ]
+     ],
+     "ball": [
+      0.86,
+      0.38
+     ],
+     "n": "El bloque se desplaza hacia el lado del balón."
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "c": "bas",
+   "t": "Basculación con balón rival por la izquierda",
+   "d": "El bloque se desplaza hacia el lado del balón y se mantiene compacto.",
+   "b": 1,
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.27,
+       0.77
+      ],
+      [
+       0.73,
+       0.77
+      ],
+      [
+       0.5,
+       0.77
+      ],
+      [
+       0.2,
+       0.4
+      ],
+      [
+       0.8,
+       0.4
+      ],
+      [
+       0.5,
+       0.58
+      ],
+      [
+       0.5,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [],
+     "ball": [
+      0.14,
+      0.38
+     ],
+     "n": "El rival tiene el balón por la izquierda."
+    },
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.564,
+       0.77
+      ],
+      [
+       0.19600000000000006,
+       0.77
+      ],
+      [
+       0.38,
+       0.77
+      ],
+      [
+       0.62,
+       0.4
+      ],
+      [
+       0.1399999999999999,
+       0.4
+      ],
+      [
+       0.38,
+       0.58
+      ],
+      [
+       0.38,
+       0.2
+      ]
+     ],
+     "B": [],
+     "mv": [
+      [
+       0.27,
+       0.77,
+       0.564,
+       0.77
+      ],
+      [
+       0.73,
+       0.77,
+       0.19600000000000006,
+       0.77
+      ],
+      [
+       0.5,
+       0.77,
+       0.38,
+       0.77
+      ],
+      [
+       0.2,
+       0.4,
+       0.62,
+       0.4
+      ],
+      [
+       0.8,
+       0.4,
+       0.1399999999999999,
+       0.4
+      ],
+      [
+       0.5,
+       0.58,
+       0.38,
+       0.58
+      ],
+      [
+       0.5,
+       0.2,
+       0.38,
+       0.2
+      ]
+     ],
+     "ball": [
+      0.14,
+      0.38
+     ],
+     "n": "El bloque se desplaza hacia el lado del balón."
+    }
+   ]
+  }
+ ]
+}
