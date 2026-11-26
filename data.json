@@ -110,8 +110,12 @@
    "DEL": "rodrigo"
   },
   "suplentes": [
-   "negro",
-   "matias"
+   "lucho",
+   "cochi",
+   "dayle",
+   "piojo",
+   "nacho",
+   "mafla"
   ],
   "instr": {
    "principios": [
@@ -335,7 +339,50 @@
    "gc": 29
   }
  ],
- "fix": [],
+ "fix": [
+  {
+   "f": "2026-11-28",
+   "h": "09:00 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 1",
+   "l": "La Ultimita",
+   "v": "Diabólica FC"
+  },
+  {
+   "f": "2026-11-28",
+   "h": "10:30 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 4",
+   "l": "Futbolistas Agremiados",
+   "v": "Bahia"
+  },
+  {
+   "f": "2026-11-28",
+   "h": "09:00 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 2",
+   "l": "Simepagan Boys",
+   "v": "Lyoner's"
+  },
+  {
+   "f": "2026-12-05",
+   "h": "12:00 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 3",
+   "l": "Diabólica FC",
+   "v": "La Ultimita"
+  },
+  {
+   "f": "2026-12-05",
+   "h": "09:00 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 3",
+   "l": "Bahia",
+   "v": "Futbolistas Agremiados"
+  },
+  {
+   "f": "2026-12-05",
+   "h": "10:30 hrs",
+   "lugar": "Cuartos de final · Copa de Oro · Futbolito 3",
+   "l": "Lyoner's",
+   "v": "Simepagan Boys"
+  }
+ ],
  "asig": {
   "POR": "diego",
   "DFC1": "cazuela",
