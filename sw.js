@@ -1,4 +1,4 @@
-const C='ult-v2',A=['./','index.html','manifest.webmanifest','icon-192.png','icon-512.png','data.json','inter-400.woff','inter-500.woff','inter-600.woff','barlow-condensed-600.woff','barlow-condensed-700.woff'];
+const C='ult-v3',A=['./','index.html','manifest.webmanifest','icon-192.png','icon-512.png','data.json','inter-400.woff','inter-500.woff','inter-600.woff','barlow-condensed-600.woff','barlow-condensed-700.woff'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(A)));self.skipWaiting()});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))));self.clients.claim()});
 self.addEventListener('fetch',e=>{

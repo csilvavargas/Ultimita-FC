@@ -94,20 +94,20 @@
   }
  ],
  "fin": {
-  "rival": "Futbolistas Agremiados",
-  "esq": "1-3-3-1",
-  "fecha": "2026-11-21",
-  "hora": "12:00 hrs",
-  "lugar": "AT Chicureo Norte, Cancha 4",
+  "rival": "Diabólica FC",
+  "esq": "1-3-2-2",
+  "fecha": "2026-11-28",
+  "hora": "09:00 hrs",
+  "lugar": "AT Chicureo Norte, Cancha 1",
   "asig": {
-   "POR": "felipe",
-   "DFC1": "chapa",
+   "POR": "diego",
+   "DFC1": "cazuela",
    "DFC2": "omar",
    "VC": "steffan",
-   "EI": "piojo",
-   "ED": "miguel",
+   "EI": "chama",
+   "ED": "chae",
    "MP": "daniel",
-   "DEL": "seba"
+   "DEL": "rodrigo"
   },
   "suplentes": [
    "negro",
@@ -117,7 +117,7 @@
    "principios": [
     "Hay momentos: antes de lanzar largo, mira si hay un pase seguro. Primero asegura la pelota, después avanza.",
     "Si perdemos la pelota: 5 segundos de contrapresión. Si no se recupera, todos replegamos por detrás de la línea del balón.",
-    "Ellos juegan 1-3-3-1: tres defensas, tres volantes y un delantero. Atrás somos 2 contra su único delantero (uno de los dos centrales queda libre); arriba somos 2 contra 3, así que presionamos escalonado."
+    "Ellos juegan 1-3-2-2: tres defensas, dos volantes y dos delanteros. En la salida somos 2 centrales contra sus 2 delanteros, así que el portero es el hombre de más. En el medio somos 3 contra 2: ahí buscamos superioridad. Arriba somos 2 contra sus 3 defensas, así que presionamos escalonado."
    ],
    "grupos": {
     "POR": {
@@ -125,7 +125,7 @@
      "p": [
       [
        "Con balón",
-       "Salida corta al central libre, el que su delantero no está presionando. Pelotazo solo si los dos centrales están tapados."
+       "Eres el hombre de más en la salida (2 contra 2 arriba). Salida corta al central que su delantero no está presionando. Si los dos están marcados, juega al volante libre o largo con intención, no por inercia."
       ],
       [
        "Con balón",
@@ -146,7 +146,7 @@
      "p": [
       [
        "Con balón",
-       "Ábranse a los lados del arco para dar ángulo al portero: son 2 contra su único delantero y uno siempre queda libre."
+       "Ábranse a los lados del arco para dar ángulo: son 2 contra sus 2 delanteros y el portero es el hombre de más. Si los presionan, devuelvan al portero."
       ],
       [
        "Con balón",
@@ -154,7 +154,7 @@
       ],
       [
        "Sin balón",
-       "Uno marca al delantero y el otro cubre por detrás. Si tu compañero sale a presionar, cierra hacia el centro."
+       "Son 2 contra 2 delanteros: cada uno marca al suyo y no se separen. Si uno sale a presionar, el otro cierra hacia el centro."
       ],
       [
        "Tras pérdida",
@@ -167,11 +167,11 @@
      "p": [
       [
        "Sin balón",
-       "Borra la línea de pase al volante central rival: tu posición cierra ese pase y obliga a jugar por fuera."
+       "Ubícate entre sus dos volantes para cortar el pase interior y que no reciban de frente."
       ],
       [
        "Con balón",
-       "Ofrécete siempre detrás o frente a la pelota, en triángulo con el defensa que la tiene. Recibe de frente y juega a uno o dos toques."
+       "Ofrécete siempre detrás o frente a la pelota, en triángulo con el defensa que la tiene. Si sus dos delanteros presionan la salida, baja y arma el 3-2."
       ],
       [
        "Al recuperar",
@@ -201,6 +201,10 @@
       [
        "Tras pérdida",
        "Contrapresión inmediata. Si no se recupera, vuelve por detrás de la línea del balón."
+      ],
+      [
+       "Con balón",
+       "En el medio somos 3 contra 2: busca el espacio libre entre sus volantes y no te pegues a la línea sin opción de pase."
       ]
      ]
     },
@@ -254,146 +258,199 @@
    "eq": "La Ultimita",
    "g": 8,
    "e": 0,
-   "p": 0,
-   "gf": 26,
-   "gc": 5
+   "p": 1,
+   "gf": 27,
+   "gc": 7
   },
   {
    "eq": "Futbolistas Agremiados",
-   "g": 5,
+   "g": 6,
    "e": 2,
    "p": 1,
-   "gf": 26,
-   "gc": 11
+   "gf": 28,
+   "gc": 12
   },
   {
    "eq": "Simepagan Boys",
-   "g": 5,
+   "g": 6,
    "e": 1,
    "p": 2,
-   "gf": 28,
-   "gc": 14
+   "gf": 32,
+   "gc": 15
   },
   {
    "eq": "Lyoner's",
-   "g": 5,
+   "g": 6,
    "e": 0,
    "p": 3,
-   "gf": 26,
-   "gc": 19
+   "gf": 32,
+   "gc": 21
   },
   {
    "eq": "Bahia",
    "g": 4,
    "e": 1,
-   "p": 3,
-   "gf": 15,
-   "gc": 16
+   "p": 4,
+   "gf": 17,
+   "gc": 22
   },
   {
    "eq": "Diabólica FC",
-   "g": 2,
+   "g": 3,
    "e": 1,
    "p": 5,
-   "gf": 9,
-   "gc": 22
+   "gf": 12,
+   "gc": 23
+  },
+  {
+   "eq": "Definila FC",
+   "g": 3,
+   "e": 0,
+   "p": 6,
+   "gf": 14,
+   "gc": 18
   },
   {
    "eq": "Trascender FC",
    "g": 2,
    "e": 1,
-   "p": 5,
-   "gf": 11,
-   "gc": 26
-  },
-  {
-   "eq": "Miami Dogs",
-   "g": 2,
-   "e": 0,
    "p": 6,
    "gf": 12,
-   "gc": 25
-  },
-  {
-   "eq": "Definila FC",
-   "g": 2,
-   "e": 0,
-   "p": 6,
-   "gf": 12,
-   "gc": 18
+   "gc": 29
   },
   {
    "eq": "Zaragoza FC",
    "g": 1,
    "e": 2,
-   "p": 5,
+   "p": 6,
    "gf": 8,
-   "gc": 17
+   "gc": 19
+  },
+  {
+   "eq": "Miami Dogs",
+   "g": 2,
+   "e": 0,
+   "p": 7,
+   "gf": 13,
+   "gc": 29
   }
  ],
  "fix": [],
  "asig": {
-  "POR": "felipe",
-  "DFC1": "chapa",
+  "POR": "diego",
+  "DFC1": "cazuela",
   "DFC2": "omar",
   "VC": "steffan",
-  "EI": "piojo",
-  "ED": "miguel",
+  "EI": "chama",
+  "ED": "chae",
   "MP": "daniel",
-  "DEL": "seba"
+  "DEL": "rodrigo"
  },
  "rv": [
   [
-   0.5,
-   0.07
+   0.4891035715738932,
+   0.05412904421488444
   ],
   [
-   0.25,
-   0.25333333333333335
+   0.1622105598449707,
+   0.39958635965983075
   ],
   [
-   0.5,
-   0.25333333333333335
+   0.49152498245239257,
+   0.1542148060268826
   ],
   [
-   0.8263580322265625,
-   0.2844853719075521
+   0.8813751856486003,
+   0.4512435065375434
   ],
   [
-   0.25,
-   0.4366666666666667
+   0.5230035781860352,
+   0.42218636406792537
   ],
   [
-   0.5,
-   0.4366666666666667
+   0.7360893885294596,
+   0.1848862330118815
   ],
   [
-   0.75,
-   0.4366666666666667
+   0.38498207728068035,
+   0.6465721554226346
   ],
   [
-   0.5,
-   0.6200000000000001
+   0.6368107477823893,
+   0.693386459350586
   ]
  ],
- "asist": [
-  {
-   "f": "2026-11-21",
-   "t": "P",
-   "p": [
-    "omar",
-    "steffan",
-    "daniel",
-    "piojo",
-    "chapa",
-    "miguel",
-    "seba",
-    "felipe",
-    "negro",
-    "matias"
+ "pos": {
+  "of": [
+   [
+    0.5,
+    0.93
+   ],
+   [
+    0.6610250473022461,
+    0.7757150438096788
+   ],
+   [
+    0.33897492090861003,
+    0.7143721686469184
+   ],
+   [
+    0.5302678743998209,
+    0.5012864006890191
+   ],
+   [
+    0.21063915888468424,
+    0.28658629523383244
+   ],
+   [
+    0.8934823354085286,
+    0.5384149763319227
+   ],
+   [
+    0.6658679326375325,
+    0.25268626742892797
+   ],
+   [
+    0.4334106763203939,
+    0.21394339667426215
    ]
-  }
- ],
+  ],
+  "df": [
+   [
+    0.5,
+    0.93
+   ],
+   [
+    0.617439333597819,
+    0.8160722520616319
+   ],
+   [
+    0.45036067962646487,
+    0.7192150539822049
+   ],
+   [
+    0.3970892270406087,
+    0.5384149763319227
+   ],
+   [
+    0.10167481899261474,
+    0.5464864095052083
+   ],
+   [
+    0.8886394500732422,
+    0.5416435665554471
+   ],
+   [
+    0.651339340209961,
+    0.45770064459906684
+   ],
+   [
+    0.4794178326924642,
+    0.24461483425564237
+   ]
+  ]
+ },
+ "asist": [],
  "jugadas": [
   {
    "id": "s0",
@@ -581,7 +638,6 @@
    "c": "of",
    "t": "Estructura con balón 1-2-3-1-1",
    "d": "Amplitud con los dos externos abiertos, mediapunta entre líneas y delantero como referencia arriba.",
-   "b": 1,
    "steps": [
     {
      "A": [
@@ -590,35 +646,68 @@
        0.93
       ],
       [
-       0.33,
-       0.78
+       0.32686777114868165,
+       0.6284618801540799
       ],
       [
-       0.67,
-       0.78
+       0.6343893686930339,
+       0.7446905348036025
       ],
       [
-       0.5,
-       0.57
+       0.5811178843180339,
+       0.5267618391248915
       ],
       [
-       0.1,
-       0.57
+       0.21790343920389812,
+       0.23457599216037325
       ],
       [
-       0.9,
-       0.57
+       0.8038894017537435,
+       0.44443325466579864
       ],
       [
-       0.5,
-       0.36
+       0.6150178909301758,
+       0.29753316243489586
       ],
       [
        0.5,
        0.17
       ]
      ],
-     "B": [],
+     "B": [
+      [
+       0.5060535748799642,
+       0.03601876629723443
+      ],
+      [
+       0.5665892918904623,
+       0.113504515753852
+      ],
+      [
+       0.2300105889638265,
+       0.1554759661356608
+      ],
+      [
+       0.8063108444213867,
+       0.3572617848714193
+      ],
+      [
+       0.6925036748250325,
+       0.22650455898708768
+      ],
+      [
+       0.49636786778767905,
+       0.4880189683702257
+      ],
+      [
+       0.19853200912475585,
+       0.4993189917670356
+      ],
+      [
+       0.5423749923706055,
+       0.6962619357638888
+      ]
+     ],
      "mv": [],
      "ball": null,
      "n": ""
@@ -900,7 +989,6 @@
    "c": "bas",
    "t": "Basculación con balón rival por la izquierda",
    "d": "El bloque se desplaza hacia el lado del balón y se mantiene compacto.",
-   "b": 1,
    "steps": [
     {
      "A": [
@@ -909,32 +997,32 @@
        0.93
       ],
       [
-       0.27,
-       0.77
+       0.164631986618042,
+       0.699490483601888
       ],
       [
-       0.73,
-       0.77
+       0.5980679194132487,
+       0.7576048109266493
       ],
       [
-       0.5,
-       0.77
+       0.382560666402181,
+       0.7398476494683159
       ],
       [
        0.2,
        0.4
       ],
       [
-       0.8,
-       0.4
+       0.5593250274658204,
+       0.39761890835232205
       ],
       [
-       0.5,
-       0.58
+       0.3510820706685384,
+       0.5881047142876519
       ],
       [
-       0.5,
-       0.2
+       0.3365535100301107,
+       0.23457599216037325
       ]
      ],
      "B": [],
@@ -1032,143 +1120,97 @@
      "n": "El bloque se desplaza hacia el lado del balón."
     }
    ]
+  },
+  {
+   "id": "jmwpdxpcp",
+   "c": "bd",
+   "t": "CORNER 1",
+   "d": "",
+   "steps": [
+    {
+     "A": [
+      [
+       0.5,
+       0.93
+      ],
+      [
+       0.4818392753601074,
+       0.6171618991427952
+      ],
+      [
+       0.3486606597900391,
+       0.12319023344251845
+      ],
+      [
+       0.5157392819722494,
+       0.27977602216932507
+      ],
+      [
+       0.3510820706685384,
+       0.1974474165174696
+      ],
+      [
+       0.6586036682128906,
+       0.19421882629394532
+      ],
+      [
+       0.0387176513671875,
+       0.034404479132758244
+      ],
+      [
+       0.6561822255452474,
+       0.11996166441175672
+      ]
+     ],
+     "B": [],
+     "mv": [
+      [
+       0.0387176513671875,
+       0.034404479132758244,
+       0.5084750175476074,
+       0.16702820460001627,
+       "m"
+      ],
+      [
+       0.5157392819722494,
+       0.27977602216932507,
+       0.5157392819722494,
+       0.18453311920166016,
+       "p"
+      ],
+      [
+       0.3486606597900391,
+       0.12319023344251845,
+       0.36561066309611,
+       0.041113858752780494,
+       "m"
+      ],
+      [
+       0.3510820706685384,
+       0.1974474165174696,
+       0.41888211568196615,
+       0.08792816268073188,
+       "m"
+      ],
+      [
+       0.6561822255452474,
+       0.11996166441175672,
+       0.6925036748250325,
+       0.045956717597113714,
+       "m"
+      ],
+      [
+       0.6586036682128906,
+       0.19421882629394532,
+       0.6247035980224609,
+       0.07017101181877984,
+       "m"
+      ]
+     ],
+     "ball": null,
+     "n": ""
+    }
+   ]
   }
- ],
- "fo": [
-  [
-   0.5,
-   0.93
-  ],
-  [
-   0.6595099767049154,
-   0.7927614000108507
-  ],
-  [
-   0.3507508913675944,
-   0.7902739630805121
-  ],
-  [
-   0.40765212376912435,
-   0.5993594699435764
-  ],
-  [
-   0.11475078264872234,
-   0.21193370819091797
-  ],
-  [
-   0.7509250005086263,
-   0.5390379587809245
-  ],
-  [
-   0.28079039255777993,
-   0.3624265458848741
-  ],
-  [
-   0.43003946940104165,
-   0.19949629041883682
-  ]
- ],
- "fd": [
-  [
-   0.5,
-   0.93
-  ],
-  [
-   0.7480933507283528,
-   0.7506813049316406
-  ],
-  [
-   0.2617341677347819,
-   0.7643465677897135
-  ],
-  [
-   0.5,
-   0.7797021653917101
-  ],
-  [
-   0.16045831044514974,
-   0.4364292144775391
-  ],
-  [
-   0.8553993860880534,
-   0.4333198547363281
-  ],
-  [
-   0.5158576965332031,
-   0.5278442806667751
-  ],
-  [
-   0.5671620686848958,
-   0.32324865129258895
-  ]
- ],
- "ro": [
-  [
-   0.5,
-   0.07
-  ],
-  [
-   0.24347812334696453,
-   0.157209046681722
-  ],
-  [
-   0.5820870081583659,
-   0.17089020411173503
-  ],
-  [
-   0.8180871327718099,
-   0.22001802656385633
-  ],
-  [
-   0.11661639213562011,
-   0.4575728522406684
-  ],
-  [
-   0.45709088643391926,
-   0.510431883070204
-  ],
-  [
-   0.7052174886067708,
-   0.43580733405219185
-  ],
-  [
-   0.49906717936197914,
-   0.7591803656684027
-  ]
- ],
- "rd": [
-  [
-   0.5,
-   0.07
-  ],
-  [
-   0.18098006248474122,
-   0.3257361306084527
-  ],
-  [
-   0.5,
-   0.25333333333333335
-  ],
-  [
-   0.8283479690551758,
-   0.3350642098320855
-  ],
-  [
-   0.21362830797831217,
-   0.614906268649631
-  ],
-  [
-   0.5,
-   0.4366666666666667
-  ],
-  [
-   0.8078262329101562,
-   0.5993594699435764
-  ],
-  [
-   0.4934703509012858,
-   0.6777152591281467
-  ]
- ],
- "esq": "1-3-3-1"
+ ]
 }
