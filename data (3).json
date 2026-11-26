@@ -83,16 +83,6 @@
   {
    "id": "felipe",
    "n": "Felipe"
-  },
-  {
-   "id": "negro",
-   "n": "Negro"
-  },
-  {
-   "id": "matias",
-   "n": "Matías"
-  }
- ],
  "fin": {
   "rival": "Diabólica FC",
   "esq": "1-3-2-2",
@@ -109,10 +99,7 @@
    "MP": "daniel",
    "DEL": "rodrigo"
   },
-  "suplentes": [
-   "negro",
-   "matias"
-  ],
+  "suplentes": 
   "instr": {
    "principios": [
     "Hay momentos: antes de lanzar largo, mira si hay un pase seguro. Primero asegura la pelota, después avanza.",
